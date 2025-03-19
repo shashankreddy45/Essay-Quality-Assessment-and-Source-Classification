@@ -1,0 +1,15 @@
+Data
+
+https://www.kaggle.com/datasets/thedrcat/daigt-external-train-dataset
+
+
+Requirements
+
+pandas
+numpy
+scikit-learn
+tensorflow
+spacy
+textblob
+matplotlib
+seaborn
